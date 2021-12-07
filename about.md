@@ -26,6 +26,4 @@ titles:
 key: page-about
 ---
 
-# About
-
-清醒、温柔、一尘不染
+清醒、温柔、一尘不染。
