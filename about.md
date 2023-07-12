@@ -21,9 +21,9 @@ titles:
   fr-CA   : *FR
   fr-CH   : *FR
   fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+  fr-LU   : 
+
+
 ---
 
-清醒、温柔、一尘不染。
+Hi, I'm Sicheng Liu, a master student in USYD (The University of Sydney). I'm currently studying in Master of Information Technology and Master of Information Technology Management, but I may transfer to Master of Computer Science in 2024.
